@@ -23,4 +23,6 @@ I have worked on a variety of data projects, which include data analysis, visual
 
 During my free time, I like to write and code. I enjoy working on different challenges, which help sharpen my mind and improve on my problem solving skills. I like telling data stories around the data science projects that I do.
 ![Ermias's github stats](https://github-readme-stats.vercel.app/api?username=ermiasgelaye&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ermiasgelaye&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ermiasgelaye&repo=github-readme-stats)](https://github.com/ermiasgealye/github-readme-stats)
