@@ -1,5 +1,5 @@
 
-![Data Science](https://github.com/ermiasgelaye/ermiasgelaye.github.io/blob/master/Images/data4.gif)
+![Data Science](https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif)
 
 ### Hi there 👋
 
