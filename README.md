@@ -1,3 +1,6 @@
+
+![Data Science](https://github.com/ermiasgelaye/ermiasgelaye.github.io/blob/master/Images/data4.gif)
+
 ### Hi there 👋
 
 <!--
