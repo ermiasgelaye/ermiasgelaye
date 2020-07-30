@@ -1,4 +1,6 @@
-<img src="https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif" width="1008" height="200">
+<img src="https://github.com/ermiasgelaye/ermiasgelaye.github.io/blob/master/Images/data4.gif" width="1008" height="200">
+
+https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif
 
 ### Hi there 👋
 
