@@ -22,7 +22,10 @@ Excited to leverage my background, and training working with a team of collabora
 I have worked on a variety of data projects, which include data analysis, visualization, and bullding data pipelines. I will showcase some of my projects here.
 
 During my free time, I like to write and code. I enjoy working on different challenges, which help sharpen my mind and improve on my problem solving skills. I like telling data stories around the data science projects that I do.
-![Ermias's github stats](https://github-readme-stats.vercel.app/api?username=ermiasgelaye&show_icons=true&theme=radical)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermiasgelaye&layout=compact)]
+
