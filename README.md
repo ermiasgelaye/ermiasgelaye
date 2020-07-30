@@ -1,5 +1,5 @@
 
-![Data Science](https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif)
+![Data Science](https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif){:height="24px" width="48px"}
 
 ### Hi there 👋
 
