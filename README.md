@@ -1,4 +1,4 @@
-![Ermias's github stats](https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif)
+![Header](https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif)
 
 ### Hi there 👋
 
