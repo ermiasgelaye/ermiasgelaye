@@ -1,4 +1,4 @@
-<img height="425" src="https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif" />
+<img src="https://www.isical.ac.in/~cvpr/ICDARWML/images/deepLearning.gif" width="640" height="425" />
 
 ### Hi there 👋
 
