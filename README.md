@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ermiasgelaye/plotly-Challenge/blob/master/static/img/background.gif" height="250" width="850" />
+<img src="https://github.com/ermiasgelaye/plotly-Challenge/blob/master/static/img/background.gif" height="250" width="810" />
 
 
 ### Hi there 👋
