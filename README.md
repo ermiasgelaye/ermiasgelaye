@@ -1,4 +1,4 @@
-<img src="deepLearning.gif" width="800" height="250" />
+<img src="deepLearning.gif"/>
 
 ### Hi there 👋
 
