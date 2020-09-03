@@ -1,5 +1,5 @@
 
-<img src="deepLearning.gif" heights=" 200" />
+<img src="deepLearning.gif" heights="50" />
 
 
 ### Hi there 👋
