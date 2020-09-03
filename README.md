@@ -1,5 +1,5 @@
 
-<img src="deepLearning.gif" heights="50" />
+<img src="https://github.com/ermiasgelaye/plotly-Challenge/blob/master/static/img/background.gif" height="250" width="800" />
 
 
 ### Hi there 👋
