@@ -1,4 +1,4 @@
-<img src="deepLearning.gif"/>
+![header](deepLearning.gif)
 
 ### Hi there 👋
 
