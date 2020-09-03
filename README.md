@@ -1,6 +1,6 @@
 
 
-![header](deepLearning.gif)
+![header](https://github.com/ermiasgelaye/plotly-Challenge/blob/master/static/img/background.gif)
 
 
 ### Hi there 👋
