@@ -1,5 +1,6 @@
 
 <img src="https://github.com/ermiasgelaye/plotly-Challenge/blob/master/static/img/background.gif" height="220" width="820" />
+
 ### Hi there 👋
 
 <!--
