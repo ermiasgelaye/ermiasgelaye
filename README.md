@@ -28,7 +28,7 @@ During my free time, I like to write and code. I enjoy working on different chal
 
 
 <p align="center"> 
-  Visitor count<br>
+  Total Commit<br>
   <img src="https://github-readme-stats.vercel.app/api?username=ermiasgelaye&theme=dark&show_icons=true&hide=contribs,prs,stars,issues" />
 </p>
 
