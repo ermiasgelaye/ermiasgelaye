@@ -34,7 +34,7 @@ During my free time, I like to write and code. I enjoy working on different chal
 
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ermiasgealye/count.svg"/>
 </p>
 
