@@ -29,6 +29,12 @@ During my free time, I like to write and code. I enjoy working on different chal
 
 ![Ermias's github stats](https://github-readme-stats.vercel.app/api?username=ermiasgelaye&theme=dark&show_icons=true&hide=contribs,prs,stars,issues)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ermiasgelaye&theme=dark&show_icons=true&hide=contribs,prs,stars,issues" />
+</p>
+
+
 
 <p align="center"> 
   Visitor count<br>
