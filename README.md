@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ermiasgelaye/plotly-Challenge/blob/master/static/img/background.gif" height="220" width="820" />
+<img src="https://1zrnlw1lz3wt1zcsci363i2d-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Data-Science-Blog-Header-1658x468.jpg" height="220" width="820" />
 
 ### Hi there 👋
 
