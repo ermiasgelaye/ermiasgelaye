@@ -31,12 +31,3 @@ During my free time, I like to write and code. I enjoy working on different chal
   Total Commit<br>
   <img src="https://github-readme-stats.vercel.app/api?username=ermiasgelaye&theme=dark&show_icons=true&hide=contribs,prs,stars,issues" />
 </p>
-
-
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/ermiasgealye/count.svg"/>
-</p>
-
-
-
