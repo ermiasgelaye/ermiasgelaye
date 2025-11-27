@@ -28,7 +28,6 @@ During my free time, I like to write and code. I enjoy working on different chal
 
 <p align="center"> 
   Visitor Count<br>
-  <img src=https://komarev.com/ghpvc/?username=ermiasgelaye/count.svg/>
- 
 </p>
+https://komarev.com/ghpvc/?username=ermiasgelaye
 
