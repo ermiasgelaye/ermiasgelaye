@@ -4,7 +4,9 @@
 ### Hi there 👋 
 
 <!--
-![](https://komarev.com/ghpvc/?username=ermiasgelaye)
+
+![](https://komarev.com/ghpvc/?username=ermiasgelaye&abbreviated=true)
+
 **ermiasgelaye/ermiasgelaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
