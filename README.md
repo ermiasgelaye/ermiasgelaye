@@ -28,7 +28,7 @@ I have worked on a variety of data projects, which include data analysis, visual
 During my free time, I like to write and code. I enjoy working on different challenges, which help sharpen my mind and improve my problem-solving skills. I like telling data stories around the data science projects that I do.
 
 
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.ermiasgelaye)
 
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermiasgelaye&show_icons=true&theme=radical)
