@@ -30,3 +30,4 @@ During my free time, I like to write and code. I enjoy working on different chal
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ermiasgealye/count.svg"/>
 </p>
+![](https://komarev.com/ghpvc/?username=ermiasgelaye/)
