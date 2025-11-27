@@ -5,8 +5,6 @@
 
 <!--
 
-![](https://komarev.com/ghpvc/?username=ermiasgelaye&abbreviated=true)
-
 **ermiasgelaye/ermiasgelaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +27,9 @@ I have worked on a variety of data projects, which include data analysis, visual
 
 During my free time, I like to write and code. I enjoy working on different challenges, which help sharpen my mind and improve my problem-solving skills. I like telling data stories around the data science projects that I do.
 
+
+
+
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermiasgelaye&show_icons=true&theme=radical)
 
