@@ -28,5 +28,6 @@ During my free time, I like to write and code. I enjoy working on different chal
 
 <p align="center"> 
   Visitor Count<br>
+  [![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/repositories-views-counter)
 </p>
 
